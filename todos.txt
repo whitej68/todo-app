@@ -1,5 +1,7 @@
 add a new player
 fly
-clean
+clean the garage
 code
 code more
+code even more
+New todo added
